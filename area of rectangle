@@ -9,8 +9,10 @@ int main(){
     printf("Enter breath\n");
     scanf("%d",&breadth);
 
-    printf("the area of this rectangle is %d", length * breadth);
-    if ("%d = 0" )
+    int area = length* breadth ;
+    printf("the area of this rectangle is %d", area);
+    
+    if ("area == 0" )
     {
      printf("the rectangle is a line ");
     }
